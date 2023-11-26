@@ -9,5 +9,4 @@
 </ul>
 
 #### <p>Here is how the project looks like:-</p>
-<h1 align="center">Blog Mastery Shailesh Jaiswar</h1>
-<h3 align="center"></h3>
+![BlogMastery](https://github.com/JaiswarShailesh/Shailesh-ebook-website/assets/119834244/a95f4363-24fd-4b44-a266-cfec38efe1df)
